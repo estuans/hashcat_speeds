@@ -4,6 +4,7 @@ CMP90HX.txt
 GTX1070.txt
 GTX1080Ti.txt
 H100PCIE.txt
+P102.txt
 P104.txt
 P106.txt
 RTX2080.txt
